@@ -1,0 +1,9 @@
+{
+    "name": "nadeem",
+    "rank": "black belt",
+    "available": "true",
+    "geomtry": {
+        "type": "Point",
+         "coordinates": [-80, 25.791]
+         }
+}
